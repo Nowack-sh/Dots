@@ -7,7 +7,8 @@ My bar comes from polybar-collection (https://github.com/Murzchnvok/polybar-coll
 + neovim (soon) (directory = /home/[user]/.config/nvim)
 + My actual wallpaper
 + dunst (directory = /home/[user]/.config/dunst)
-+ rofi /home/nowack/.config/rofi)
++ rofi (directory = /home/nowack/.config/rofi)
++ alacritty (directory = /home/[user]/.config)
 ## Requirements:
 For:
 + polybar: zscroll and player ctl
