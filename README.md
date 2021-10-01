@@ -7,4 +7,6 @@ My bar comes from polybar-collection (https://github.com/Murzchnvok/polybar-coll
 + neovim (soon) (directory = /home/[user]/.config/nvim
 + My actual wallpaper
 ## Requirements:
-Soon
+For:
++ polybar: zscroll and player ctl
+i will do the rest Soon
