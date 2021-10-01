@@ -11,5 +11,6 @@ My bar comes from polybar-collection (https://github.com/Murzchnvok/polybar-coll
 + alacritty (directory = /home/[user]/.config)
 ## Requirements:
 For:
-+ polybar: zscroll and player ctl
++ polybar: zscroll and player-ctl
+
 i will do the rest Soon
